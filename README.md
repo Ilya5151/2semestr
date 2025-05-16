@@ -19,5 +19,6 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 ✅ - [Проверочная работа1](https://www.yaklass.ru/TestWork/Results/23002086?from=%2Ftestwork)
 ✅ - [Проверочная работа2](https://www.yaklass.ru/TestWork/Results/22963632?from=%2Ftestwork)
 ✅ - [Проверочная работа3](https://www.yaklass.ru/TestWork/Results/23100122?from=%2Ftestworkс)
+✅ - [Проверочная работа3](https://www.yaklass.ru/TestWork/Results/22938148?from=%2Ftestwork)
 
 
