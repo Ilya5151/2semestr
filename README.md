@@ -23,5 +23,7 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 
 ✅ - [Пароль](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
 ✅ - [Задание и блок схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
+✅ - [Регулярные выражения](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=ZS2fU_drqX6h)\
+
 
 
