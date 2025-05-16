@@ -10,4 +10,5 @@ https://docs.google.com/document/d/1B8-DOlJhgF42NqlF88ZuUL_6Cx2jqBFLjziooSC2h5A/
 
 https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0 - дз баш
 
-✅ - [Условия на примере цены товара](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=txq5Wj4tfRGB)
+✅ - [Условия на примере цены товара](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=txq5Wj4tfRGB)\
+    ✅ - https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1h0cS&line=1&uniqifier=1
