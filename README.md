@@ -27,6 +27,6 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 ✅ - [Код пароля в классе](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=8-8ZfLSLyFK5&line=1&uniqifier=1)\
 ✅ - [Вызов функции](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=_2N4qD3N8Sau)\
 ✅ - [Принципы ООП](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfhttps://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6UIoje#scrollTo=V2eLAevz2ChR)\
-✅ - [5 методов]https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6
+✅ - [5 методов](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6)
 
 
