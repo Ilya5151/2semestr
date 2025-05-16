@@ -35,6 +35,8 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 ❌[3 способа загрузки файлов]\
 ❌[Код по созданию сводной таблицы]\
 
+## Сертификаты
+
 ## Работа с Bash
 
 [Практическая работа1](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
