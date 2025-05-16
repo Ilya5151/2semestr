@@ -31,8 +31,8 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 
 ✅[Аналитика данных](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
 ✅[Задание и блок-схема](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
-❌[Сводная таблице с формулами]
-❌[3 способа загрузки файлов]
-❌[Код по созданию сводной таблицы]
+❌[Сводная таблице с формулами]\
+❌[3 способа загрузки файлов]\
+❌[Код по созданию сводной таблицы]\
 
 
