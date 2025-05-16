@@ -24,6 +24,7 @@ https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/
 ✅ - [Пароль](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
 ✅ - [Задание и блок схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
         ✅ - [Регулярные выражения](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=ZS2fU_drqX6h)\
-✅ - [Код пароля в классе](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=8-8ZfLSLyFK5&line=1&uniqifier=1)
+✅ - [Код пароля в классе](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=8-8ZfLSLyFK5&line=1&uniqifier=1)\
+✅ - [Вызов функции](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=_2N4qD3N8Sau)
 
 
