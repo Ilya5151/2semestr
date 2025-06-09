@@ -1,6 +1,6 @@
 # 2semestr
 ## Работа с bash
-# Контрольная по ГН https://docs.google.com/document/d/1B_AR8fz20wO4QpFGVVcVYpdlDAfXzf_2y4rIiR4xrWY/edit?usp=drivesdk
+# [Контрольная по ГН](https://docs.google.com/document/d/1B_AR8fz20wO4QpFGVVcVYpdlDAfXzf_2y4rIiR4xrWY/edit?usp=drivesdk)\
 # [Конспекты](https://drive.google.com/drive/folders/1wl_n9XSktrq0vmBp8Xy_x52jzGs0-mE0?usp=drive_link)\
 # [Практические работы](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?usp=sharing)\
 # [Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)\
