@@ -28,10 +28,7 @@
 # ❌[Код по созданию сводной таблицы]\
 
 
-## Работа с Bash
-
-[Практическая работа1](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
 ## Сертификаты
-[Сертификать](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
+# [Сертификать](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
 
 
