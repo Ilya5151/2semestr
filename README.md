@@ -3,6 +3,7 @@
 # [Контрольная по ГН](https://docs.google.com/document/d/1B_AR8fz20wO4QpFGVVcVYpdlDAfXzf_2y4rIiR4xrWY/edit?usp=drivesdk)
 # [Практическая работа 1](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
 # [Практические работа 2](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
+# [Очистка директории](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
 # [Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)
 # [ДЗ БАШ](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
 ## Работа с Python
