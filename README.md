@@ -11,12 +11,7 @@
 # ✅ - [Задание и блок-схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1)\
 # ✅ - [Код](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1)
 
-## ✅ -[Якласс]
-
-# ✅ - [Проверочная работа1](https://www.yaklass.ru/TestWork/Results/23002086?from=%2Ftestwork)\
-# ✅ - [Проверочная работа2](https://www.yaklass.ru/TestWork/Results/22963632?from=%2Ftestwork)\
-# ✅ - [Проверочная работа3](https://www.yaklass.ru/TestWork/Results/23100122?from=%2Ftestworkс)\
-# ✅ - [Проверочная работа4](https://www.yaklass.ru/TestWork/Results/22938148?from=%2Ftestwork)
+## ✅ -[Якласс](https://drive.google.com/drive/folders/1vKwdQG7AUcbL6Y_Eyq08Mg7tnkxDr9kl?usp=drive_link)
 
 ## ✅ - [Пароль](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
 # ✅ - [Задание и блок схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=XQWtZWNNr_Cp)\
