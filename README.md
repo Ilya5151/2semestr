@@ -1,10 +1,10 @@
 # 2semestr
-Работа с bash
+## Работа с bash
 
-[Конспекты](https://drive.google.com/drive/folders/1wl_n9XSktrq0vmBp8Xy_x52jzGs0-mE0?usp=drive_link)\
-[Практические работы](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?usp=sharing)\
-[Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)\
-[ДЗ БАШ](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
+# [Конспекты](https://drive.google.com/drive/folders/1wl_n9XSktrq0vmBp8Xy_x52jzGs0-mE0?usp=drive_link)\
+# [Практические работы](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?usp=sharing)\
+# [Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)\
+# [ДЗ БАШ](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
 ## Работа с Python
 # ✅ - [Условия на примере цены товара](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=txq5Wj4tfRGB)\
 # ✅ - [Задание и блок-схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1)\
@@ -27,9 +27,9 @@
 
 ## ✅[Аналитика данных](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
 # ✅[Задание и блок-схема](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
-❌[Сводная таблице с формулами]\
-❌[3 способа загрузки файлов]\
-❌[Код по созданию сводной таблицы]\
+# ❌[Сводная таблице с формулами]\
+# ❌[3 способа загрузки файлов]\
+# ❌[Код по созданию сводной таблицы]\
 
 
 ## Работа с Bash
