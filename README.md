@@ -29,6 +29,6 @@
 
 
 ## Сертификаты
-# [Сертификать](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
+# [Сертификат](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
 
 
