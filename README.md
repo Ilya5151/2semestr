@@ -19,13 +19,13 @@
 ## ✅ - [Код пароля в классе](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=8-8ZfLSLyFK5&line=1&uniqifier=1)
 ## ✅ - [Вызов функции](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=_2N4qD3N8Sau)
 ## ✅ - [Принципы ООП](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfhttps://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6UIoje#scrollTo=V2eLAevz2ChR)
-# ✅ - [5 методов](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6)
+## ✅ - [5 методов](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=SvsVaxeCwKL6)
 
-## ✅[Аналитика данных](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
-# ✅[Задание и блок-схема](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)\
-# ❌[Сводная таблице с формулами]\
-# ❌[3 способа загрузки файлов]\
-# ❌[Код по созданию сводной таблицы]\
+# ✅[Аналитика данных](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)
+## ✅[Задание и блок-схема](https://app.diagrams.net/#G1bdcP3OiDcEADn3TipmEa1PqJ_kupxFMD#%7B%22pageId%22%3A%22PrTM6MTqaT5qHNGuFR7M%22%7D)
+## ❌[Сводная таблице с формулами]
+## ❌[3 способа загрузки файлов]
+## ❌[Код по созданию сводной таблицы]
 
 
 ## Сертификаты
