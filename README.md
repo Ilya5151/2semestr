@@ -1,12 +1,12 @@
 # 2semestr
-## Работа с bash
-# [Практическая работа 1](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
-# [Практические работа 2](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
-# [Очистка директории](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
-# [Графики гнуплот](https://docs.google.com/document/d/1hTQkfKB-TWztggm8nJ8lHtYfWFZ3Emet6nV3vdrazbA/edit?usp=sharing)
-# [Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)
-# [Контрольная по ГН](https://docs.google.com/document/d/1B_AR8fz20wO4QpFGVVcVYpdlDAfXzf_2y4rIiR4xrWY/edit?usp=drivesdk)
-## Работа с Python
+# Работа с bash
+## [Практическая работа 1](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
+## [Практические работа 2](https://docs.google.com/document/d/1c6dJjY2E8Nd2wS1dGhxW3XkspxdnlWiVMhsYji9bx1U/edit?tab=t.0)
+## [Очистка директории](https://docs.google.com/document/d/1XYZss9z3_sus-Qwi7StJho9fnYM9-rQtNSHeIgvgksQ/edit?tab=t.0)
+## [Графики гнуплот](https://docs.google.com/document/d/1hTQkfKB-TWztggm8nJ8lHtYfWFZ3Emet6nV3vdrazbA/edit?usp=sharing)
+## [Взлом системы](https://docs.google.com/document/d/18IIt1Hk2NYjCsOr8ORRESPU1GCMNmMXUQboUBSWuofI/edit?usp=sharing)
+## [Контрольная по ГН](https://docs.google.com/document/d/1B_AR8fz20wO4QpFGVVcVYpdlDAfXzf_2y4rIiR4xrWY/edit?usp=drivesdk)
+# Работа с Python
 # ✅ - [Условия на примере цены товара](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=txq5Wj4tfRGB)\
 # ✅ - [Задание и блок-схема](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1)\
 # ✅ - [Код](https://colab.research.google.com/drive/1G_EZEX2KbKCcde4jEHlQpqX-jXfUIoje#scrollTo=emKGuCu-h0cS&line=1&uniqifier=1)
