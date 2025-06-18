@@ -28,7 +28,7 @@
 ## ❌[Код по созданию сводной таблицы]
 
 
-## Сертификаты
+## Cаморазвитие
 # [Сертификат](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
 
 
