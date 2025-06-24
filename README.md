@@ -31,4 +31,7 @@
 ## Cаморазвитие
 # [Сертификат](https://drive.google.com/drive/folders/1jopE5S4RjNQmv-F8HrG8H9uzv_lHJpUB?usp=drive_link)
 
+## Индивидуальный проект 
+# [ИП](https://docs.google.com/document/d/1rAptQwDYZUedpHIqQaYU87TilqdU407SseVjSblpqpI/edit?usp=sharing)
+
 
